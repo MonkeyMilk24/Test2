@@ -10,5 +10,5 @@ $conn = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
 if($conn === false){
     die("ERROR: Could not connect. " . mysqli_connect_error());
 }
-define('GEMINI_API_KEY', 'AIzaSyBFSRrUzoawDAu6ncm7jP-XUxjibMVAgS4'); // Replace with your actual key
+define('GEMINI_API_KEY', 'shhh'); // Replace with your actual key
 ?>
