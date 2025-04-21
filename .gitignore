@@ -1,0 +1,20 @@
+# Node and Python
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Build folders
+dist/
+build/
